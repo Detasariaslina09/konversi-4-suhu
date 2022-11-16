@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
+	
 	//DETA SARI ASLINA (2217051117)
 	
 	float celcius;
