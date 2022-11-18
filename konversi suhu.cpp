@@ -4,7 +4,7 @@ int main(){
 	
 	//DETA SARI ASLINA (2217051117)
 	
-	float celcius;
+    float celcius;
     float reamur, fahreinhet, kelvin;
     
     cout<<"---------------------------------------------"<<endl;
@@ -14,9 +14,9 @@ int main(){
     cout<<"masukan derajat celcius : ";
     cin>>celcius;
     
-    reamur = 4.0/5.0 * celcius;
- 	fahreinhet = 9.0/5.0 * celcius + 32;212;
- 	kelvin = celcius + 273;
+ reamur = 4.0/5.0 * celcius;
+ fahreinhet = 9.0/5.0 * celcius + 32;212;
+ kelvin = celcius + 273;
  	
  	cout<<"Reamur : "<<reamur<<endl;
 	cout<<"Fahreinhet : "<<fahreinhet<<endl;
